@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔍 Driven by an insatiable hunger to understand people through data.
 
-🧠 Intrigued by the complexities of human cognition and the abundant knowledge we can gain through our attempts to emulate it using AI.
+🧠 Aspiring Cognitive Scientist
 
-📊 Enjoy bridging the gap between the analytical and the intuitive through data visualization.
+📊 Visualization Enthusiast
 
-☕ Fueled by good coffee, the perfect companion during long hours of data crunching.
+☕ Coffee Enjoyer
 
 <br/>
 
