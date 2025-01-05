@@ -25,6 +25,12 @@ Here are some ideas to get you started:
           
 ## Overview of Projects
 
+#### Data Mining
+- 🧠 [Explainability of Machine Learning Models in Prediction of Affective Disorders](https://github.com/fsentin/master-thesis)
+- 🧪 [Diterpene Chemical Structure Elucidation](https://github.com/fsentin/diterpene)
+- 💉 [Breast Cancer Classification](https://github.com/fsentin/uzop-extended)
+- ⚖️ [Classification Experimentation - 3 Models x 3 Datasets](https://github.com/fsentin/tuw-ml/blob/main/classification/documentation.pdf)
+
 #### Data Visualization 
 - 🌍 [European Social Survey Dashboard](https://github.com/fsentin/ess) 
 - 🚨 [London Metropolitan Police Stop and Search Dashboard](https://github.com/fsentin/stop-and-search)
@@ -32,14 +38,10 @@ Here are some ideas to get you started:
 #### Natural Language Processing 
 
 - 😟 [Stress Detection in Social Media](https://github.com/fsentin/dreaddit)
-- 🧠 [Deep Learning Classification on Text](https://github.com/fsentin/tuw-ml/blob/main/deeplearning-on-text/report.pdf)    
+- 💬 [Deep Learning Classification on Text](https://github.com/fsentin/tuw-ml/blob/main/deeplearning-on-text/report.pdf)    
 - 🔍 [Neural Information Retrieval & Extractive Question Answering](https://github.com/fsentin/neural-ir)
 - 💭 [Imagination or Recollection? Discovering Lexical Differences](https://github.com/fsentin/story-telling)
 
-#### Data Mining
-- 🧪 [Diterpene Chemical Structure Elucidation](https://github.com/fsentin/diterpene)
-- 💉 [Breast Cancer Classification](https://github.com/fsentin/uzop-extended)
-- ⚖️ [Classification Experimentation - 3 Models x 3 Datasets](https://github.com/fsentin/tuw-ml/blob/main/classification/documentation.pdf)
 
 #### Software Engineering
 
